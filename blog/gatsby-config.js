@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jon Godinez's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jon Godinez`,
+      summary: `who lives and works in the San Francisco Bay Area building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A personal blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://jongodinez.co/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jonlikestacobel`,
     },
   },
   plugins: [

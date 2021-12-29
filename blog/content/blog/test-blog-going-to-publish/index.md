@@ -7,8 +7,9 @@ Inspired by qdonnellan.com (accessed through web.archive.org as of December 2021
 
 - - -
 
-**Courses credited through Thomas Edison State University**
-*Completed via [https://study.com](https:study.com/) or [DANTES/DSST](https://www.dantes.doded.mil/EducationPrograms/get-credit/creditexam.html)*
+**Courses accredited through ACE (American Council on Education)**
+
+ *Completed via [https://study.com](https:study.com/) or [DANTES/DSST](https://www.dantes.doded.mil/EducationPrograms/get-credit/creditexam.html)*
 
 | Number  | Title                             | Completed | Source    |
 | ------- | --------------------------------- | --------- | --------- |
@@ -18,7 +19,5 @@ Inspired by qdonnellan.com (accessed through web.archive.org as of December 2021
 | COS-241 | Data Structures & Algorithms      | Aug 2020  | study.com |
 | MAT-270 | Discrete Mathematics              | May 2021  | study.com |
 | CIS-320 | Systems Analysis & Design         | May 2021  | study.com |
-
-
 
 *More courses coming soon.*

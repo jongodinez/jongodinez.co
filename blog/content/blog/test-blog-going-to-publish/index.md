@@ -20,6 +20,7 @@ Inspired by qdonnellan.com (accessed through web.archive.org as of December 2021
 | COS-241 | Data Structures & Algorithms      | Aug 2020  | study.com |
 | MAT-270 | Discrete Mathematics              | May 2021  | study.com |
 | CIS-320 | Systems Analysis & Design         | May 2021  | study.com |
+
 | ------- | --------------------------------- | --------- | --------- |
 | CHEM 1  | General Chemistry I               | Sep 2020  | UCB Ext.  |
 | CHEM 2  | General Chemistry II              | Sep 2021  | UCSD Ext. | 
